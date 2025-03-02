@@ -1,16 +1,17 @@
 # Projeto Integrador  
 
-Nome do projeto: Densus
+**Nome do projeto:** Densus
 
-Metodologia: SCRUM  
+**Metodologia:** SCRUM  
 
 ## Equipe
 
-**Scrum Master:** Willian Junior  
+**Scrum Master:** 
+- Willian Junior  
 
 **Desenvolvimento:**   
-Marcos Gabriel  
-João Vitor  
+- Marcos Gabriel  
+- João Vitor  
 
 ## Objetivo
 Com base no PI do 2º periodo, devemos adicionar um banco de dados, utilizar os conceitos que aprendemos em estrutura de dados, alem de diversas melhorias em back-end e front-end.  
